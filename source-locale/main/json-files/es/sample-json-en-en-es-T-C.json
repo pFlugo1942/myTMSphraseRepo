@@ -1,0 +1,20 @@
+{
+  "general.back": "Volver",
+  "general.cancel": "Cancelar",
+  "general.confirm": "Confirmar",
+  "general.destroy": "Destruir",
+  "general.edit": "Editar",
+  "general.new": "Nuevo",
+  "hello": "Hola Mundo",
+  "layouts.application.about": "Acerca de",
+  "layouts.application.account": "Cuenta",
+  "layouts.application.app_store": "App Store",
+  "layouts.application.imprint": "Impronta",
+  "layouts.application.logout": "Cerrar sesión",
+  "layouts.application.my_mails": "Mis correos",
+  "layouts.application.press": "Prensa",
+  "layouts.application.preview": "Vista previa",
+  "layouts.application.profile": "Perfil",
+  "layouts.application.sign_in": "Iniciar sesión",
+  "layouts.application.sign_up": "Registro"
+}
