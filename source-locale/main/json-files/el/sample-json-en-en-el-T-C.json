@@ -1,0 +1,20 @@
+{
+  "general.back": "Πλάτη",
+  "general.cancel": "Ακυρώνω",
+  "general.confirm": "Επιβεβαιώνω",
+  "general.destroy": "Καταστρέφω",
+  "general.edit": "Επεξεργασία",
+  "general.new": "Νέος",
+  "hello": "Γεια σου κόσμε",
+  "layouts.application.about": "Περίπου",
+  "layouts.application.account": "Λογαριασμός",
+  "layouts.application.app_store": "Κατάστημα εφαρμογών",
+  "layouts.application.imprint": "Αποτύπωμα",
+  "layouts.application.logout": "Αποσύνδεση",
+  "layouts.application.my_mails": "Τα μηνύματά μου",
+  "layouts.application.press": "Τύπος",
+  "layouts.application.preview": "Προεπισκόπηση",
+  "layouts.application.profile": "Προφίλ",
+  "layouts.application.sign_in": "Σύνδεση",
+  "layouts.application.sign_up": "Εγγραφή"
+}
