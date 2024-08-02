@@ -1,0 +1,20 @@
+{
+  "general.back": "Zurück",
+  "general.cancel": "Abbrechen",
+  "general.confirm": "Bestätigen",
+  "general.destroy": "Zerstören",
+  "general.edit": "Redigieren",
+  "general.new": "Neu",
+  "hello": "Hallo Welt",
+  "layouts.application.about": "Über",
+  "layouts.application.account": "Konto",
+  "layouts.application.app_store": "App Store",
+  "layouts.application.imprint": "Abdruck",
+  "layouts.application.logout": "Ausloggen",
+  "layouts.application.my_mails": "Meine Mails",
+  "layouts.application.press": "Presse",
+  "layouts.application.preview": "Vorschau",
+  "layouts.application.profile": "Profil",
+  "layouts.application.sign_in": "Einloggen",
+  "layouts.application.sign_up": "Registrierung"
+}
