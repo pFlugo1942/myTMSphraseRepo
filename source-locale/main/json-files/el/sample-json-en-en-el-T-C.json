@@ -5,7 +5,7 @@
   "general.destroy": "Καταστρέφω",
   "general.edit": "Επεξεργασία",
   "general.new": "Νέος",
-  "hello": "Γεια σου κόσμε",
+  "hello": "Hello World",
   "layouts.application.about": "Περίπου",
   "layouts.application.account": "Λογαριασμός",
   "layouts.application.app_store": "Κατάστημα εφαρμογών",
