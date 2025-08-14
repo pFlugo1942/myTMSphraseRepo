@@ -5,9 +5,9 @@
       <comment>This is a comment</comment>
     </data>
     <data name="access_across_devices" xml:space="preserve">
-      <value>Acceso en todos los dispositivos</value>
+      <value>Acceso desde todos los dispositivos</value>
     </data>
     <data name="all_plans_include_label" xml:space="preserve">
-      <value>Todos los planes incluyen lo siguiente</value>
+      <value>Todos los Planes incluyen lo siguiente</value>
     </data>
 </root>
