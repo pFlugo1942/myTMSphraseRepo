@@ -1,0 +1,54 @@
+{
+    "platform": "Cadenas de frases",
+    "description": "Una plataforma de gestión de cadenas para traducciones basadas en claves, que permite la localización de productos digitales a escala.",
+    "core_features": [
+        {
+            "name": "Gestión de cadenas",
+            "description": "Extrae segmentos de repositorios de código o archivos de diseño para gestionar todo el proceso de traducción."
+        },
+        {
+            "name": "Automatización",
+            "description": "Automatiza los pasos rutinarios en el proceso de localización, lo que reduce el esfuerzo manual."
+        },
+        {
+            "name": "Colaboración",
+            "description": "Facilita la colaboración entre equipos globales, asegurando traducciones consistentes."
+        },
+        {
+            "name": "Actualizaciones inalámbricas",
+            "description": "Implementa traducciones al instante en aplicaciones y sitios web, lo que garantiza actualizaciones oportunas."
+        },
+        {
+            "name": "Memoria de traducción y glosario",
+            "description": "Reutiliza las traducciones existentes para mantener la coherencia en todos los proyectos."
+        }
+    ],
+    "integrations": [
+        "GitHub",
+        "Figma",
+        "Contentful",
+        "WordPress",
+        "Zendesk"
+    ],
+    "user_roles": [
+        "Gerente de localización",
+        "Desarrollador",
+        "Translator",
+        "Diseñador",
+        "Gerente de proyecto"
+    ],
+    "analytics": {
+        "description": "Proporciona información sobre las actividades de traducción y las métricas de rendimiento.",
+        "access_levels": [
+            "Admin",
+            "Gerente de proyecto",
+            "Translator"
+        ]
+    },
+    "security_compliance": [
+        "ISO 27001",
+        "GDPR",
+        "Socio de AWS",
+        "PCI DSS"
+    ]
+}
