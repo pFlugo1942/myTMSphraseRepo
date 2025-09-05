@@ -1,0 +1,54 @@
+{
+    "platform": "Phrase Strings",
+    "description": "Eine String-Management-Plattform für schlüsselbasierte Übersetzungen, die die Lokalisierung digitaler Produkte in großem Umfang ermöglicht.",
+    "core_features": [
+        {
+            "name": "String Management",
+            "description": "Extrahiert Segmente aus Code-Repositorys oder Designdateien, um den gesamten Übersetzungsprozess zu verwalten."
+        },
+        {
+            "name": "Automatisierung",
+            "description": "Automatisiert Routineschritte im Lokalisierungsprozess und reduziert den manuellen Aufwand."
+        },
+        {
+            "name": "Zusammenarbeit",
+            "description": "Erleichtert die Zusammenarbeit zwischen globalen Teams und sorgt für konsistente Übersetzungen."
+        },
+        {
+            "name": "Over-the-Air-Updates",
+            "description": "Stellt Übersetzungen sofort in Apps und Websites bereit und sorgt für zeitnahe Updates."
+        },
+        {
+            "name": "Translation Memory &amp; Glossar",
+            "description": "Verwendet vorhandene Übersetzungen, um die Konsistenz zwischen Projekten zu erhalten."
+        }
+    ],
+    "integrations": [
+        "GitHub",
+        "Figma",
+        "Inhaltlich",
+        "WordPress",
+        "Zendesk"
+    ],
+    "user_roles": [
+        "Lokalisierungsmanager",
+        "Entwickler",
+        "Translator",
+        "Designer",
+        "Projektleiter"
+    ],
+    "analytics": {
+        "description": "Bietet Einblicke in Übersetzungsaktivitäten und Leistungskennzahlen.",
+        "access_levels": [
+            "Admin",
+            "Projektleiter",
+            "Translator"
+        ]
+    },
+    "security_compliance": [
+        "ISO 27001",
+        "GDPR",
+        "AWS Partner",
+        "PCI DSS"
+    ]
+}
